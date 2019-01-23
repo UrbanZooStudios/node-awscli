@@ -1,4 +1,4 @@
-FROM circleci/node:8.10
+FROM circleci/node:9.11
 
 MAINTAINER Martin Dunford <martindunford@urbanzoo.io>
 
